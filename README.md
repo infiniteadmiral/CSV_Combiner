@@ -8,7 +8,7 @@ filename from which the row came (only the file's basename, not the entire path)
 Use `filename` as the header for the additional column.
 
 ## Input & Output
-The program should run as following.
+The program should be run as following.
 ```
 # python3 combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv ./fixtures/household_cleaners.csv > combiner.csv
 ## Example
